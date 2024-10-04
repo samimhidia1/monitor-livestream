@@ -1,0 +1,4 @@
+scrapy
+streamlink
+boto3
+deepgram-sdk==3.0.0
